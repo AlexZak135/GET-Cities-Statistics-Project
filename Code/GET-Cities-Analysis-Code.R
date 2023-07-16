@@ -337,7 +337,7 @@ space_tokenizer <- function(text) {
   str_split(text, " ") 
   }
 
-# Define a function to count the occurrences of unigrams with digits
+# Define a function to count the occurrences of unigrams that have digits
 
 token_count <- function(data1) {
   data2 <- data1  |> 
