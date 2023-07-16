@@ -20,10 +20,14 @@ presence of women in the tech sector.
 
 To gain a deeper understanding of the experiences, perceptions, and outlooks of 
 women in tech, GET Cities carried out a survey from April to September 2022. The
-respondents consisted of 406 women working full-time in the tech industry across 
-three Midwestern states: Illinois, Wisconsin, and Indiana. The results from this 
-survey were used in this analysis after initial data cleaning was conducted to get
-the results into a tidier format.
+respondents consisted of 406 women working in the tech industry across three 
+Midwestern states: Illinois, Wisconsin, and Indiana. The survey consisted of 68 
+questions, asking a variety of topics from the demographics of the individuals and
+their overall experience working in tech, to questions relating to retention in their
+current roles, as well as the likelihood of wanting to stay in the tech industry over 
+the next year. Only select questions were used in the analysis portion of this project.
+Still, every question provided meaningful results, and there is still room for questions 
+that were not looked at in my analysis to be explored in further analyses.
 
 ## Methodology
 
