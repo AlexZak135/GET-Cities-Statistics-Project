@@ -32,7 +32,7 @@ that were not looked at in my analysis to be explored in further analyses.
 ## Methodology
 
 Prior to the analysis portion of this project, a wide range of data preprocessing steps
-were taken in order to format the data more tidy.I analyzed the results of this survey 
+were taken in order to make the data more tidy. I analyzed the results of this survey 
 using various techniques, such as data visualization and sentiment analysis, to unveil a
 multitude of trends and insights regarding the experiences of women in the Midwestern tech 
 sector. For example, the vast majority of the responses from the technologists regarding
