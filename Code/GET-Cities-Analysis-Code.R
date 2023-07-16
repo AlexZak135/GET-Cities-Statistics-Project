@@ -385,7 +385,7 @@ fig2_data <- quant_data |>
          SQ35 != "No Response") |> 
   group_by(SQ24, SQ35) |>
   summarize(count = n()) |>
-  mutate(pct = count / sum(count)) %>%
+  mutate(pct = count / sum(count)) |>
   arrange(SQ24, desc(pct))
 
 # Perform the data preprocessing steps:
