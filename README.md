@@ -1,4 +1,4 @@
-# GET-Cities-Statistics-Project
+# GET-Cities-NLP-Project
 
 ## Background
 
